@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "pull-to-refresh": "^1.2.3",
     "save": "^2.4.0",
-    "swiper": "^5.3.7",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-awesome-swiper": "^4.1.0",
     "vue-pull-refresh": "^0.2.7",
